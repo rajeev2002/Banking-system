@@ -12,9 +12,9 @@ const Footer = () => {
       <div>
         <h4>Contact us</h4>
         <p>Telephone: 123-123-1234</p>
-        <p>Email: tsfbank@email.com</p>
+        <p>Email: sparksfoundationbank@email.com</p>
       </div>
-      <p className='copyright'>TSF Bank Copyright &copy; {getYr()}</p>
+      <p className='copyright'>Sparks Foundation Bank Copyright &copy; {getYr()}</p>
       <div>
         <h4>Address</h4>
         <p>212, Glory Complex,</p>

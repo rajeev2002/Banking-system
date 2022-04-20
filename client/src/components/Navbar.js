@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom'
 const Navbar = () => {
   return (
     <nav className='navbar'>
-      <h1>TSF BANK</h1>
+      <h1>Sparks Foundation BANK</h1>
       <div className='navItems'>
         <NavLink exact activeClassName='navActive' className='navLink' to='/'>
           Home
